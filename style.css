@@ -1,0 +1,20 @@
+h1 {
+    padding-left: 300px;
+    color: white;
+    background-color: rgb(105, 4, 4);
+}
+img {
+    padding-left: 265px;
+}
+h3 {
+    padding-left: 150px;
+    color: white;
+    background-color: rgb(105, 4, 4);
+}
+p {
+    padding-left: 200px;
+    color: white;
+}
+body {
+    background-color: black
+}
